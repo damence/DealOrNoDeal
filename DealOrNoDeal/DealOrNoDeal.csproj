@@ -176,5 +176,20 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="kutii\backgroundCover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="kutii\lilaPhoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="kutii\audiofile.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="kutii\applausesound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="kutii\entrysound.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

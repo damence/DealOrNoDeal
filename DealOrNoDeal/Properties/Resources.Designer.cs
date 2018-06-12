@@ -61,6 +61,34 @@ namespace DealOrNoDeal.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream applausesound {
+            get {
+                return ResourceManager.GetStream("applausesound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream audiofile {
+            get {
+                return ResourceManager.GetStream("audiofile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgroundCover {
+            get {
+                object obj = ResourceManager.GetObject("backgroundCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap box1 {
@@ -216,6 +244,25 @@ namespace DealOrNoDeal.Properties {
         internal static System.Drawing.Bitmap box50k {
             get {
                 object obj = ResourceManager.GetObject("box50k", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream entrysound {
+            get {
+                return ResourceManager.GetStream("entrysound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lilaPhoto {
+            get {
+                object obj = ResourceManager.GetObject("lilaPhoto", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -22,3 +22,15 @@ C:\Users\Teo\Desktop\DealOrNoDeal-master\DealOrNoDeal\obj\Debug\DealOrNoDeal.csp
 C:\Users\Teo\Desktop\DealOrNoDeal-master\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.CoreCompileInputs.cache
 C:\Users\Teo\Desktop\DealOrNoDeal-master\DealOrNoDeal\obj\Debug\DealOrNoDeal.exe
 C:\Users\Teo\Desktop\DealOrNoDeal-master\DealOrNoDeal\obj\Debug\DealOrNoDeal.pdb
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.exe.config
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.exe
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.pdb
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.BankerForm.resources
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.Form1.resources
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.GameForm.resources
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.Properties.Resources.resources
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.GenerateResource.cache
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.exe
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.pdb
