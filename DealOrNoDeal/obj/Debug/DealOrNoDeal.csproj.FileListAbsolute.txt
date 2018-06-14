@@ -34,3 +34,4 @@ C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealO
 C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.CoreCompileInputs.cache
 C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.exe
 C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.pdb
+C:\Users\Damjan\Desktop\visual_project\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.CongratsForm.resources

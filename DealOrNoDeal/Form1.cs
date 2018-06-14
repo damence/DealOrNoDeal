@@ -12,9 +12,12 @@ namespace DealOrNoDeal
 {
     public partial class Form1 : Form
     {
+        bool firstGame;
+
         public Form1()
         {
             InitializeComponent();
+            firstGame = true;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             System.Media.SoundPlayer soundPlayer = 
                 new System.Media.SoundPlayer(Properties.Resources.entrysound);
@@ -39,7 +42,18 @@ namespace DealOrNoDeal
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Placeholder text for now");
+            string msg = "Правила на играта" + Environment.NewLine
+                + Environment.NewLine + "Играчот отвара кутии од понудените се додека"
+                + Environment.NewLine + "не е задоволен од понудата или стигне до последната"
+                + Environment.NewLine + "кутија. По секои неколку отворени кутии, добива"
+                + Environment.NewLine + "повик од банкарот кој му дава одредена понуда"
+                + Environment.NewLine + "која може да ја прифати или да ја одбие.";
+            MessageBox.Show(msg);
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
         }
     }
 }

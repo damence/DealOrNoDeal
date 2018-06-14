@@ -239,11 +239,21 @@ namespace DealOrNoDeal
                 if( banker.DialogResult == DialogResult.Cancel)
                 {
                     banker.Close();
+                    CongratsForm congratsForm = new CongratsForm(currentGame.calculateOffer());
+                    congratsForm.ShowDialog();
                     this.Close();
                 }
 
 
             }
+            if (currentGame.getTurn() == 15)
+            {
+                CongratsForm congratsForm = new CongratsForm(currentGame.getBoxes().Max());
+                congratsForm.ShowDialog();
+                this.Close();
+            }
+
+
         }
 
         private void pictureBox17_Click(object sender, EventArgs e)
